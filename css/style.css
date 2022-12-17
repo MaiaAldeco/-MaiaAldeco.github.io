@@ -1,0 +1,25 @@
+.w-10{width: 10%} /* 10% del ancho */
+.w-20{width: 20%}
+.w-30{width: 30%}
+.w-40{width: 40%}
+.w-50{width: 50%}
+.w-60{width: 60%}
+.w-70{width: 70%}
+.w-80{width: 80%}
+.w-90{width: 90%}
+.w-100{width: 100%}
+
+.ml-item{
+    margin-left: 20px;
+}
+
+.mdl-layout{
+    min-width: 360px;
+}
+
+.contenedor{
+    padding: 20px;
+    display: flex; /* los elementos se ponen uno al lado de los otros */
+    justify-content: space-around; /* lo que sobre de los elementos los distribuye a los costados */
+    align-items: center;
+}
